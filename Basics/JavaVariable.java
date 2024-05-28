@@ -1,3 +1,4 @@
+package Basics;
  public class JavaVariable{
     public static void main(String args[]){
         int a ,b,c;
