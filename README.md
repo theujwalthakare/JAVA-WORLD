@@ -13,7 +13,7 @@ Contributions to this repository are highly encouraged and appreciated! Here's h
 - Improving Existing Programs: If you identify any issues or areas for enhancement in the existing programs, feel free to submit pull requests with your improvements.
 - Additional Projects: Showcase your larger Java projects or collaborate on new ones by adding them to the repository
 To contribute, fork this repository, make your modifications, and submit a pull request.
-<\br>
+
 ## Resources
 Explore additional resources to support your Java learning journey:
 - [Java Documentation](https://docs.oracle.com/en/java/)
