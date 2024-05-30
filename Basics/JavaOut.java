@@ -1,7 +1,7 @@
  
 public class JavaOut {
     public static void main(String args[]){
-        System.out.println("Hello !!!"); // line ka space by using println
-        System.out.println("Ujwal"); //print no next line given in print statement
+        System.out.print("Hello !!!"); // print just print and not append on new line 
+        System.out.println("Ujwal"); // its append new line
     }
 }
