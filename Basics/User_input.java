@@ -1,10 +1,7 @@
 import java.util.*;
 public class User_input {
-<<<<<<< HEAD
     public static void main(String arg[]){
-=======
-    public static void main(String[] arg){
->>>>>>> 60503e743be6b01c21fe07bcbadd051562823224
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Your string :");
         // for single string input:->
